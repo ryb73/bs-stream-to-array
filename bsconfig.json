@@ -1,5 +1,6 @@
 {
     "name" : "bs-stream-to-array",
+    "bs-dependencies": [ "bs-node", "bs-fast-csv" ],
     "sources" : [
         { "dir" : "src" },
         {

@@ -22,6 +22,7 @@
     "bs-platform": "1.7.3",
     "dependency-env": "0.1.1",
     "nopam": "0.1.0",
-    "ocamlBetterErrors": "0.1.1"
+    "ocamlBetterErrors": "0.1.1",
+    "stream-to-array": "2.3.0"
   }
 }
