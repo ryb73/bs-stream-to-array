@@ -1,0 +1,8 @@
+{
+	"isLinked": null,
+	"links": [
+		"bs-platform",
+		"bs-node",
+		"bs-fast-csv"
+	]
+}

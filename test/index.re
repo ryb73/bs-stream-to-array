@@ -1,5 +1,5 @@
 open Js.Promise;
-open Node.Fs;
+open NodeFs;
 
 module CsvFormatter = FastCsv.Format({
     type t = Js.t {. one: string, two: string };
